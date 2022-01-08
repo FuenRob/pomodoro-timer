@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Pomodoro timer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). To carry out this project I have followed this [tutorial](https://www.youtube.com/watch?v=0PnSEPm2UKY&list=PLTcOzxm2NcYA54ipWB-NxGzqQlD1afbJL&index=20)
 
 ## Available Scripts
 
